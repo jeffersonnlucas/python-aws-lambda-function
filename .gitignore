@@ -1,3 +1,12 @@
+# Compiled files
+*.terraform.lock.hcl
+
+# Module directory
+.terraform/
+
+# Builds Directory
+builds/
+
 # Local .terraform directories
 **/.terraform/*
 
